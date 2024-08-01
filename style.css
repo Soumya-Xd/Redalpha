@@ -171,6 +171,7 @@ nav {
     text-align: center;
     color: #fa0707;
     animation: fadeIn 2s ease-out;
+     background: rgba(0, 0, 0, 0.5);
 }
 
 .services-list {
