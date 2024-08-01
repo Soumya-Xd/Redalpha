@@ -110,6 +110,7 @@ nav {
     width: auto;
     text-align: center;
     animation: fadeIn 3s ease-out;
+     background: rgba(0, 0, 0, 0.5);
 }
 
 .team {
