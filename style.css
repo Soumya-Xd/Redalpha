@@ -10,7 +10,7 @@ body {
     color: #0b011e;
     line-height: 1.6;
     overflow-x: hidden; /* Prevent horizontal scroll */
-    background: url('images/giphy.gif') no-repeat center center fixed; /* Fixed background image */
+    background: url('images/giph.gif') no-repeat center center fixed; /* Fixed background image */
     background-size: cover; /* Ensure the background image covers the entire page */
 }
 
